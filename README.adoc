@@ -1,0 +1,5 @@
+# JavaScript-para-back-end
+
+Códigos dos cursos da alura:
+
+* Fundamentos JavaScript: Tipos, variáveis e funções. footnote:[https://cursos.alura.com.br/completeCourse/fundamentos-javascript-tipos-variaveis-funcoes]
