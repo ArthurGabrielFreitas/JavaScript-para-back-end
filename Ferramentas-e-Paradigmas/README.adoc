@@ -1,0 +1,27 @@
+Biblioteca criada com o próposito de extrair e validar os links de um arquivo Markdown. Projeto do curso NodeJS: criando sua primeira biblioteca, na plataforma alura.
+
+## Instalar dependências
+
+```sh
+npm install
+```
+
+## Rodar aplicação
+
+### Extrair links de um arquivo Markdown
+
+```sh
+npm run cli <file-path>
+```
+
+### Validar links de um arquivo Markdown
+
+```sh
+npm run cli <file-path> validar
+```
+
+## Rodar testes
+
+```sh
+npm run test
+```
