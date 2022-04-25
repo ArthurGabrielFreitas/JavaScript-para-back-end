@@ -3,3 +3,9 @@
 Códigos dos cursos da alura:
 
 * Fundamentos JavaScript: Tipos, variáveis e funções. footnote:[https://cursos.alura.com.br/completeCourse/fundamentos-javascript-tipos-variaveis-funcoes]
+* Fundamentos do JavaScript: Arrays. footnote:[https://cursos.alura.com.br/course/fundamentos-javascript-arrays]
+* Fundamentos do JavaScript: objetos. footnote:[https://cursos.alura.com.br/course/fundamentos-javascript-objetos]
+* Algoritmos com JavaScript I: iniciando com algoritmos de ordenação. footnote:[https://cursos.alura.com.br/course/algoritmos-javascript-i-algoritmos-ordenacao]
+* Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca. footnote:[https://cursos.alura.com.br/course/algoritmos-javascript-ii-aprofundando-ordenacao-busca]
+* NodeJS: criando sua primeira biblioteca. footnote:[https://cursos.alura.com.br/course/nodejs-criando-biblioteca]
+* JavaScript: primeiros passos da programação orientada a objetos. footnote:[https://cursos.alura.com.br/course/javascript-passos-programacao-orientada-objetos]
